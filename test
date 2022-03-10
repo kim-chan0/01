@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin https://github.com/Projects-PE02/01.git
 git push -u origin main
 
-test test test
+test test
