@@ -3,4 +3,4 @@ b = 2
 c = 3
 d = a+b+c
 
-print(f)
+print(d)
