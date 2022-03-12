@@ -1,0 +1,6 @@
+pandas
+numpy
+matplotlib
+tqdm
+glob2
+lmfit
