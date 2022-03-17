@@ -1,10 +1,10 @@
 # 2017013736 김찬영
-import numpy as np
 
 # x + y - z = 0
 # 2x - y + 3z = 9
 # x + 2y + z = 8
 
+import numpy as np
 #Generate an matrix that matches the equation.
 a = np.array([[1,1,-1],
               [2,-1,3],
