@@ -1,0 +1,2 @@
+,Wafer,Mask,TestSite,Name,Date,Operator,Row,Column,Analysis Wavelength,Rsq of Ref. spectrum (Nth),Max transmission of Ref. spec. (dB),Rsq of IV,I at -1V [A],I at 1V [A]
+0,D08,LION1,DCM_LMZC,MZMCTE_LULAB_450_500,Fri Jul 12 12:05:53 2019,magdzi83,0,2,1550,0.9957639581803713,-8.278760104532308,0.9999999999999944,7.961963e-11,0.005282801
